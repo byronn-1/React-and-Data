@@ -1,4 +1,4 @@
-const DUMMY_DATA = [
+export const DUMMY_DATA = [
     {
       id: 'm1',
       title: 'This is a first meetup',

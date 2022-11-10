@@ -1,4 +1,4 @@
-import DUMMY_DATA from '../model/dummy-data'
+import { DUMMY_DATA } from '../model/dummy-data'
 
 export default function AllMeetupsPage(){
     return (

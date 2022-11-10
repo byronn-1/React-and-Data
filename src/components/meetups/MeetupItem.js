@@ -14,7 +14,7 @@ export default function MeetupItem(props) {
           <p>{props.description}</p>
         </div>
         <div className={classes.actions}>
-          <button>to Favorites</button>
+          <button>To Favorites</button>
         </div>
       </Card>
     </li>
